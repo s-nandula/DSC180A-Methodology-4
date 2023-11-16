@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-### Srianusha Nandula
-### snandula@ucsd.edu
+### Srianusha Nandula and Saachi Shenoy
